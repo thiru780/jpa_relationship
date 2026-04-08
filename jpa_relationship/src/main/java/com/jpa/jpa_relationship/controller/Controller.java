@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.Optional;
 
 @RestController
-@RequestMapping(value="/api")
+@RequestMapping(value="/api/user")
 public class Controller {
 
 
